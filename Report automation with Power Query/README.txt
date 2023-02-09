@@ -1,4 +1,4 @@
-This is a very simplified example of a real Excel daily report that I automated when I was working for New Balance. The data has been anonymized.
+This is a very simplified example of a real Excel daily report that I automated when I was working for New Balance. Note: the data has been anonymized.
 
 The result of this automation was aproximately 20 minutes worth of work every day, as we had around 5.000 rows per report that we had to filter and separe in different tabs in an Excel document.
 

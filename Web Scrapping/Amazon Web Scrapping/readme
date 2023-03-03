@@ -1,0 +1,1 @@
+I developed a Python web scraper for an Amazon product that checks the price twice a day. It sends an email if the price drops below a certain threshold. This project involved the use of few libraries.
